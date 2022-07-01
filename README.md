@@ -19,10 +19,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development Roles. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ajaykumarhere) [Gmail](mailto:ajaysenthilkumar71@gmail.com)
 
-**<a href="#" target="_blank">`ajaykumar.com`</a>**
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayKumar-Here" alt="ajaykumar" /> </p>
-
 </br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
