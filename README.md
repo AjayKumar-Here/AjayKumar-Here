@@ -24,7 +24,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
   ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
@@ -36,8 +35,6 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
   ![ExpressJS](https://img.shields.io/badge/-Express.js-787878?style=flat)
   ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
-  ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)
-  ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF")
@@ -46,7 +43,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
