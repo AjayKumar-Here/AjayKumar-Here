@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="ZM9MhIlQPVl6VE20RqtINnEpruwQUQJUCiH3pMCFtQo" />
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
