@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="n03yE5qaMreZ3lhyc8HP-7LOGGCBA7HESDdraYJr3Oc" />
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://github.com/AjayKumar-Here/Whatsapp-FireBase-private/blob/main/assets/cover-thompson.svg" />
+  <img src="https://github.com/AjayKumar-Here/Whatsapp-FireBase-private/blob/main/assets/cover-thompson.svg" />
 </p>
 
 <h2>வணக்கம் (Vanakkam)🙏🏻, I'm Ajay Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
