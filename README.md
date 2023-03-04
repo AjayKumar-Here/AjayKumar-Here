@@ -1,11 +1,11 @@
 <meta name="google-site-verification" content="n03yE5qaMreZ3lhyc8HP-7LOGGCBA7HESDdraYJr3Oc" />
 
 <p align="center">
-  <img src="https://github.com/AjayKumar-Here/Whatsapp-FireBase-private/blob/main/assets/cover-thompson.svg" />
+  <img src="https://github.com/AjayKumar-Here/Whatsapp-FireBase-private/blob/main/assets/cover.png" />
 </p>
 
 <h2>வணக்கம் (Vanakkam)🙏🏻, I'm Ajay Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>CS Student at <a href="http://www.aucev.edu.in/">University College Of Engineering Villupuram 🎓 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CS Graduate From <a href="http://www.aucev.edu.in/">University College Of Engineering Villupuram 🎓 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -15,10 +15,16 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
 
-- 🔭 I’m CS student at UCEV.
+- 🔭 I’m CS Graduated at UCEV.
 - 📚 I’m currently learning  Full Stack web development using React, NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development Roles. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ajaykumarhere) [Gmail](mailto:ajaysenthilkumar71@gmail.com)
+
+</br>
+
+**<a href="https://ajaykumar-here.vercel.app" target="_blank">`Portfolio`</a>**
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayKumar-Here" alt="AjayKumar" /> </p>
 
 </br>
 
