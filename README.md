@@ -5,7 +5,7 @@
 </p>
 
 <h2>வணக்கம் (Vanakkam)🙏🏻, I'm Ajay Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>CS Graduate From <a href="http://www.aucev.edu.in/">University College Of Engineering Villupuram 🎓 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CS Graduated From <a href="http://www.aucev.edu.in/">University College Of Engineering Villupuram 🎓 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
